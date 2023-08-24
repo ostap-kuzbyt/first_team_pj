@@ -16,3 +16,4 @@ let bro = {
 bro.getName();
 bro.setName('ostap');
 bro.getName()
+sdfdsdf
